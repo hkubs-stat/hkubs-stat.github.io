@@ -1,42 +1,42 @@
-- name: Arif Ansari
-  photo: Ansari.jpg
-  info: Professor of Clinical Data Sciences and Operations ([View Profile](https://www.marshall.usc.edu/personnel/arif-ansari))
-  email: aansari@marshall.usc.edu
+- name: Prof. Haipeng Shen
+  photo: Haipeng_SHEN.jpg
+  info: Associate Dean (Executive Education), Patrick S C Poon Professor in Analytics and Innovation, Chair of Business Analytics and Innovation ([View Profile](https://www.hkubs.hku.hk/people/haipeng-shen/))
+  email: haipeng@hku.hk
   number_educ: 1
-  education1: Ph.D. University of Southern California 
+  education1: Ph.D. The Wharton School of Business, University of Pennsylvania
   
-- name: Jacob Bien
-  photo: Bien.jpg
-  info: Professor of Data Sciences and Operations and Dean’s Associate Professor in Business Administration ([View Profile](https://www.marshall.usc.edu/personnel/jacob-bien))
-  email: jbien@marshall.usc.edu
+- name: Prof. Dan YANG
+  photo: Dan_YANG.jpg
+  info: Associate Professor at IIM, Associate Director for Institute of Digital Economy and Innovation (IDEI)  ([View Profile](https://sites.google.com/view/dyang/home?authuser=0))
+  email: dyanghku@hku.hk
   number_educ: 1
-  education1: Ph.D. Stanford University
+  education1: Ph.D. The Wharton School of Business, University of Pennsylvania
   
-- name: Paromita Dubey
-  photo: Dubey.jpg
-  info: Assistant Professor of Data Sciences and Operations ([View Profile](https://www.marshall.usc.edu/personnel/paromita-dubey))
-  email: paromita@marshall.usc.edu
-  number_educ: 1
-  education1: Ph.D. University of California, Davis
-  
-- name: Yingying Fan
-  photo: Fan.jpg
-  info: Associate Dean of the Ph.D. Program, Centennial Chair in Business Administration and Professor of Data Sciences and Operations ([View Profile](https://www.marshall.usc.edu/personnel/yingying-fan))
-  email: fanyingy@marshall.usc.edu
+- name: Prof. Weichen WANG
+  photo: Weichen_Wang.jpg
+  info: Assistant Professor at IIM ([View Profile](https://www.hkubs.hku.hk/people/weichen-wang/))
+  email: weichenw@hku.hk
   number_educ: 1
   education1: Ph.D. Princeton University
-
-- name: Robertas Gabrys
-  photo: Gabrys.jpg
-  info: Associate Professor of Clinical Data Sciences and Operations ([View Profile](https://www.marshall.usc.edu/personnel/robertas-gabrys))
-  email: gabrys@marshall.usc.edu
+  
+- name: Prof. Zhanrui CAI
+  photo: zhanrui_cai.jpg
+  info: Assistant professor at IIM ([View Profile](https://zhanruicai.github.io/))
+  email: zhanruic@hku.hk
   number_educ: 1
-  education1: Ph.D. Utah State University
+  education1: Ph.D. The Pennsylvania State University
 
-- name: Zijun Gao
-  photo: Gao.jpg
-  info: Assistant Professor of Data Sciences and Operations ([View Profile](https://www.marshall.usc.edu/people/zijun-gao))
-  email: zijungao@marshall.usc.edu
+- name: Prof. Xinghao Qiao
+  photo: Xing_Hao.jpg
+  info: Associate Professor at IIM ([View Profile](https://www.hkubs.hku.hk/people/xinghao-qiao/))
+  email: xinghaoq@hku.hk
   number_educ: 1
-  education1: Ph.D. Stanford University
+  education1: Ph.D. Marshall School of Business, University of Southern California
+
+- name: Prof. Jing Ouyang
+  photo: Jing Ouyang.jpeg
+  info: Assistant Professor at IIM ([View Profile](https://sites.google.com/umich.edu/jingouyang/home))
+  email: jingoy@umich.edu 
+  number_educ: 1
+  education1: Ph.D. University of Michigan
   
