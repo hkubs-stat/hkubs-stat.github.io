@@ -10,18 +10,13 @@ permalink: /seminars/
 
 ## Statistics Seminars 2023-2024
 
-**Contact**: Paromita Dubey (paromita@marshall.usc.edu), Zijun Gao (zijungao@marshall.usc.edu), and Dennis Shen (shendenn@marshall.usc.edu).
+**Contact**: Prof. Zhanrui Cai (zhanruic@hku.hk), Prof. Dan Yang (dyanghku@hku.hk).
 
 
 {:class="table table-bordered"}
-| Dates   | Speaker name       | Speaker institution                            |
-| ------- | ------------------ | ---------------------------------------------- |
-| Sep 15  | Debdeep Pati       | Texas A&M University                           |
-| Sep 29  | Lan Wang           | Miami Herbert Business School                  |
-| Oct 20  | Rajarshi Mukherjee | Harvard University                             |
-| Nov 3   | Yuyan Wang         | Stanford University                            |
-| Nov 10  | Jing Lei           | Carnegie Mellon University                     |
-| Mar 12  | Prof. Pedro Oliveira  | Nova School of Business and Economics       |
-| Mar 22  | Jian Huang         | The Hong Kong Polytechnic University           |
+| Dates   | Speaker name       | Speaker institution                       |Seminar Title                  |
+| ------- | ------------------ | ----------------------------------------- |-----------------------------------------------------------------------|
+| Mar 12  | Prof. Pedro Oliveira  | Nova School of Business and Economics  |Unlocking Innovation in Healthcare: The Case of the Patient Innovation |
+| Mar 22  | Prof. Jian Huang   | The Hong Kong Polytechnic University      |A Bayesian Framework for Fine-Tuning Pretrained Diffusion Models       |
 {:.table-striped}
 
