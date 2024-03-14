@@ -5,37 +5,51 @@
   number_educ: 0
   education1: 
   
-- name: Sang-Wook Lee
-  photo: Lee_student.jpg
-  info: Third Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/personnel/sang-wook-lee))
-  email: sangwook@marshall.usc.edu
+- name: Mingqiu WEI
+  photo: Mingqiu_Wei.jpg
+  info: Third Year MPhil Student([View Profile](https://www.hkubs.hku.hk/people/mingqiu-wei/))
+  email: wmq96@connect.hku.hk
   number_educ: 0
   education1: 
 
-- name: Jongmin Mun
-  photo: Mun_student.jpg
-  info: First Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/people/jongmin-mun))
-  email: jongmin.mun@marshall.usc.edu
+- name: Rui GUO
+  photo: GuoRui.jpg
+  info: Second Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/rui-guo/))
+  email: u0v0519@connect.hku.hk
   number_educ: 0
   education1: 
 
-- name: Tianmin Xie
-  photo: Xie_student.jpg
-  info: Second Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/personnel/tianmin-xie))
+- name: Guoyu KANG
+  photo: GuoyuKang.jpg
+  info: Second Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/guoyu-kang/))
   email: tianmin.xie@marshall.usc.edu
   number_educ: 0
   education1: 
   
-- name: Letian Yang
-  photo: Letian_student.jpg
-  info: First Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/people/letian-yang))
-  email: letian.yang@marshall.usc.edu
+- name: Hanni JIE
+  photo: JIE-Hanni.jpg
+  info: First Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/jie-hanni/))
+  email: jiehanni@connect.hku.hk
   number_educ: 0
   education1: 
   
-- name: Yanfei Zhou
-  photo: Zhou_student.jpg
-  info: Third Year Ph.D. Student([View Profile](https://www.marshall.usc.edu/personnel/yanfei-zhou))
-  email: yanfeizh@marshall.usc.edu
+- name: Fangyi WEI
+  photo: WEI-Fangyi.jpeg
+  info: First Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/wei-fangyi/))
+  email: fwei@connect.hku.hk
+  number_educ: 0
+  education1: 
+
+  - name: Huan LIAN
+  photo: LIAN-Huan.jpg
+  info: First Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/lian-huan/))
+  email: lianh21@connect.hku.hk
+  number_educ: 0
+  education1: 
+
+  - name: Yutao DENG
+  photo: DENG-Yutao.jpg
+  info: First Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/deng-yutao/))
+  email: ytdeng@connect.hku.hk
   number_educ: 0
   education1: 
