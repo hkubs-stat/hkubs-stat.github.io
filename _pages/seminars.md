@@ -21,10 +21,7 @@ permalink: /seminars/
 | Oct 20  | Rajarshi Mukherjee | Harvard University                             |
 | Nov 3   | Yuyan Wang         | Stanford University                            |
 | Nov 10  | Jing Lei           | Carnegie Mellon University                     |
-| March 8 | Nancy Zhang        | The Wharton School, University of Pennsylvania |
-| Mar 22  | Misha Belkin       | University of California, San Diego            |
-| Mar 29  | Keith Levin        | University of Wisconsin, Madison               |
-| Apr 12  | Oliver Linton      | University of Cambridge                        |
-| Apr 19  | Armeen Taeb        | University of Washington, Seattle              |
+| Mar 12  | Prof. Pedro Oliveira  | Nova School of Business and Economics       |
+| Mar 22  | Jian Huang         | The Hong Kong Polytechnic University           |
 {:.table-striped}
 
