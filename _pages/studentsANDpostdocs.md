@@ -56,7 +56,6 @@ Our statistics (Business Analystics) group has multiple positions for PhD studen
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden"> </ul>
-  <ul> {{ member.email }} </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
