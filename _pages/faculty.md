@@ -22,8 +22,7 @@ permalink: /faculty/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
-
-  <li> {{ member.education1 | markdownify}} <li> 
+  <ul> {{ member.education1 }} </ul>
   <li> {{ member.interest | markdownify}} </li>
   </ul>
 </div>
