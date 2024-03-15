@@ -10,8 +10,6 @@ permalink: /seminars/
 
 ## Statistics Seminars 2023-2024
 
-**Contact**: Prof. Zhanrui Cai (zhanruic@hku.hk), Prof. Dan Yang (dyanghku@hku.hk).
-
 
 {:class="table table-bordered"}
 | Dates   | Speaker name       | Speaker institution                       |Seminar Title                  |

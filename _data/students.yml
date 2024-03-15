@@ -1,14 +1,7 @@
-- name: Mr. Jianlong SHAO
-  photo: SHAO_Jianlong.jpg
-  info: Fifth Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/jianlong-shao/))
-  email: sjlpku@connect.hku.hk
-  number_educ: 0
-  education1: 
-  
-- name: Mr. Mingqiu WEI
-  photo: Mingqiu_Wei.jpg
-  info: Third Year MPhil Student([View Profile](https://www.hkubs.hku.hk/people/mingqiu-wei/))
-  email: wmq96@connect.hku.hk
+- name: Mr. Yutao DENG
+  photo: DENG-Yutao.jpg
+  info: First Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/deng-yutao/))
+  email: ytdeng@connect.hku.hk
   number_educ: 0
   education1: 
 
@@ -19,6 +12,13 @@
   number_educ: 0
   education1: 
 
+- name: Ms. Hanni JIE
+  photo: JIE-Hanni.jpg
+  info: First Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/jie-hanni/))
+  email: jiehanni@connect.hku.hk
+  number_educ: 0
+  education1: 
+
 - name: Ms. Guoyu KANG
   photo: GuoyuKang.jpg
   info: Second Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/guoyu-kang/))
@@ -26,10 +26,17 @@
   number_educ: 0
   education1: 
   
-- name: Ms. Hanni JIE
-  photo: JIE-Hanni.jpg
-  info: First Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/jie-hanni/))
-  email: jiehanni@connect.hku.hk
+  - name: Mr. Huan LIAN
+  photo: LIAN-Huan.jpg
+  info: First Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/lian-huan/))
+  email: lianh21@connect.hku.hk
+  number_educ: 0
+  education1: 
+
+- name: Mr. Jianlong SHAO
+  photo: SHAO_Jianlong.jpg
+  info: Fifth Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/jianlong-shao/))
+  email: sjlpku@connect.hku.hk
   number_educ: 0
   education1: 
   
@@ -40,16 +47,10 @@
   number_educ: 0
   education1: 
 
-- name: Mr. Huan LIAN
-  photo: LIAN-Huan.jpg
-  info: First Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/lian-huan/))
-  email: lianh21@connect.hku.hk
+- name: Mr. Mingqiu WEI
+  photo: Mingqiu_Wei.jpg
+  info: Third Year MPhil Student([View Profile](https://www.hkubs.hku.hk/people/mingqiu-wei/))
+  email: wmq96@connect.hku.hk
   number_educ: 0
   education1: 
 
-- name: Mr. Yutao DENG
-  photo: DENG-Yutao.jpg
-  info: First Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/deng-yutao/))
-  email: ytdeng@connect.hku.hk
-  number_educ: 0
-  education1: 
