@@ -22,7 +22,7 @@ permalink: /faculty/
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul> {{ member.education1 }} </ul>
-  <ul> {{ member.interest }} </ul>
+  <i> {{ member.interest }} </i>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
