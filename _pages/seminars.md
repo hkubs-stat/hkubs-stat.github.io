@@ -14,8 +14,8 @@ permalink: /seminars/
 {:class="table table-bordered"}
 | Dates   | Speaker's name       | Speaker institution                       |Seminar Title                  |
 | ------- | ------------------ | ----------------------------------------- |-----------------------------------------------------------------------|
-| Mar 12  | Prof. Pedro Oliveira  | Nova School of Business and Economics  |Unlocking Innovation in Healthcare: The Case of the Patient Innovation |
-| Mar 22  | Prof. Jian Huang   | The Hong Kong Polytechnic University      |A Bayesian Framework for Fine-Tuning Pretrained Diffusion Models       |
+| Mar 12, 2024  | Prof. Pedro Oliveira  | Nova School of Business and Economics  |Unlocking Innovation in Healthcare: The Case of the Patient Innovation |
+| Mar 22, 2024 | Prof. Jian Huang   | The Hong Kong Polytechnic University      |A Bayesian Framework for Fine-Tuning Pretrained Diffusion Models       |
 {:.table-striped}
 
 
