@@ -4,7 +4,7 @@
   email: zhanruic@hku.hk
   number_educ: 1
   education1: Ph.D. Pennsylvania State University
-  interest: Research interest":" High dimensional inference, machine learning, and differential privacy.
+  interest: High dimensional inference, machine learning, and differential privacy.
 
   
 - name: Prof. Jing Ouyang
@@ -13,7 +13,7 @@
   email: jingoy@umich.edu 
   number_educ: 1
   education1: Ph.D. University of Michigan
-  interest: Research interest":" Latent variable models, psychometrics, high-dimensional statistical inference, and statistical machine learning.
+  interest: Latent variable models, psychometrics, high-dimensional statistical inference, and statistical machine learning.
   
 
 - name: Prof. Xinghao Qiao
@@ -22,7 +22,7 @@
   email: xinghaoq@hku.hk
   number_educ: 1
   education1: Ph.D. University of Southern California
-  interest: Research interest":" Functional data analysis, complex time series analysis, high-dimensional statistics/ econometrics, and machine learning in finance.
+  interest: Functional data analysis, complex time series analysis, high-dimensional statistics/ econometrics, and machine learning in finance.
 
 - name: Prof. Haipeng Shen
   photo: Haipeng_SHEN.jpg
@@ -30,7 +30,7 @@
   email: haipeng@hku.hk
   number_educ: 1
   education1: Ph.D. University of Pennsylvania
-  interest: Research interest":" Data-driven decision making in the face of uncertainty (big data, business analytics, healthcare analytics, service engineering).
+  interest: Data-driven decision making in the face of uncertainty (big data, business analytics, healthcare analytics, service engineering).
 
 - name: Prof. Weichen Wang
   photo: Weichen_Wang.jpg
@@ -38,7 +38,7 @@
   email: weichenw@hku.hk
   number_educ: 1
   education1: Ph.D. Princeton University
-  interest: Research interest":" Big data analysis, machine learning, econometrics and asset pricing, factor model and low-rank structure, semi-parametric and robust statistics.
+  interest: Big data analysis, machine learning, econometrics and asset pricing, factor model and low-rank structure, semi-parametric and robust statistics.
   
 - name: Prof. Dan Yang
   photo: Dan_YANG.jpg
@@ -46,7 +46,7 @@
   email: dyanghku@hku.hk
   number_educ: 1
   education1: Ph.D. University of Pennsylvania
-  interest: Research interest":" Business analytics in finance and healthcare, high-dimensional statistical inference, tensor data, time series analysis, dimension reduction, functional data analysis and multivariate data analysis, analysis of observational studies and causal inference.
+  interest: Business analytics in finance and healthcare, high-dimensional statistical inference, tensor data, time series analysis, dimension reduction, functional data analysis and multivariate data analysis, analysis of observational studies and causal inference.
   
 
 
