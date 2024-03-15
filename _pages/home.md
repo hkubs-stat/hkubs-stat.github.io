@@ -17,7 +17,6 @@ We are a dynamic research group at the [HKU Business School](https://www.hkubs.h
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
