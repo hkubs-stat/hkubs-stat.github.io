@@ -23,6 +23,7 @@ permalink: /faculty/
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden"> </ul>
   <ul> {{ member.education1 }} </ul>
+  <ul> {{ member.interest }} </ul>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
