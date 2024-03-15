@@ -1,22 +1,10 @@
-- name: Prof. Zhanrui Cai
-  photo: zhanrui_cai.jpg
-  info: Assistant Professor at IIM ([View Profile](https://zhanruicai.github.io/))
-  email: zhanruic@hku.hk
-<<<<<<< HEAD
-<<<<<<< HEAD
+- name: Prof. Jing Ouyang
+  photo: Jing Ouyang.jpeg
+  info: Assistant Professor at IIM ([View Profile](https://sites.google.com/umich.edu/jingouyang/home))
+  email: jingoy@umich.edu 
   number_educ: 1
-  education1: Research interests: High dimensional data, machine learning, data privacy.
-=======
-  number_educ: 2
-  education1: Ph.D. Pennsylvania State University
-  education2: Research interests: High dimensional data, machine learning, data privacy.
->>>>>>> parent of 808b4e7 (Update faculty_members.yml)
-=======
-  number_educ: 2
-  education1: Ph.D. Pennsylvania State University
-  education2: Research interests: High dimensional data, machine learning, data privacy.
->>>>>>> parent of 808b4e7 (Update faculty_members.yml)
-
+  education1: Ph.D. University of Michigan
+  
 
 - name: Prof. Jing Ouyang
   photo: Jing Ouyang.jpeg
