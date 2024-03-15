@@ -24,8 +24,6 @@ permalink: /faculty/
   <ul style="overflow: hidden">
 
   <li> {{ member.education1 | markdownify}} <li> 
-  <ul style="overflow: hidden">
-    
   <li> {{ member.interest | markdownify}} </li>
   </ul>
 </div>
