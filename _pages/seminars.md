@@ -25,17 +25,6 @@ permalink: /seminars/
 | Mar 22, 2024  | Jian Huang      | The Hong Kong Polytechnic University   | A Bayesian Framework for Fine-Tuning Pretrained Diffusion Models       |
 
 
-
-
-
-
-
-
-
-
-
-
-
 {:.table-striped}
 
 
@@ -45,7 +34,10 @@ permalink: /seminars/
 | Dates   |  Workshop title     | Speakers                        |link                 |
 | ------- | ------------------ | ----------------------------------------- |-----------------------------------------------------------------------|
 | July 5, 2023  | HKU 2023 Summer Workshop on Statistics and Data Analytics  |Songxi Chen, Jiashun Jin, Prof. Regina Y. Liu, Annie Qu, Cunhui Zhang, Ji Zhu |[link](https://saasweb.hku.hk/workshop/sda2023/)   |
-| June 3, 2024  | HKU 2024 Summer Workshop on Statistics and Data Analytics | Runze Li, Qiwei Yao, etc     |      |
+| June 3, 2024  | HKU 2024 Summer Workshop on Statistics and Data Analytics | Runze Li, Qiwei Yao, etc     | [link](https://hkubs-stat.github.io/HKU-2024-Summer-Workshop/)     |
+
+
+
 {:.table-striped}
 
 
