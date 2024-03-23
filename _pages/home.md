@@ -7,7 +7,8 @@ permalink: /
 ---
 
 
-We are a dynamic research group at the [HKU Business School](https://www.hkubs.hku.hk/). The statistics group consists of 6 full-time faculty. The group's main research interests span the frontiers of modern theoretical and applied statistical methodology in large-scale, high-dimensional, and complex data settings. The prominent directions include machine learning, deep learning, artificial intelligence, tensor data, causal inference, observational studies, time series analysis, high dimensional statistics, network analysis, dimension reduction, and applications in finance and healthcare analytics.
+We are a research group focusing on **statistics and business analytics** at the [HKU Business School](https://www.hkubs.hku.hk/). The group consists of 6 full-time faculty. The group's main research interests span the frontiers of modern statistical methodology and applications. The specific research directions include (but are not limited to) machine learning, artificial intelligence, high dimensional statistical inference, functional data, time series analysis, econometrics, factor models, and privacy protection. Our research is widely applied in areas such as health care, bioinformatics, service engineering, financial market, educational assessments, and psychological measurements.
+
  
 
 
