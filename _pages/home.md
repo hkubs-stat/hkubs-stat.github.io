@@ -11,7 +11,9 @@ permalink: /
 We are a research group focusing on **statistics and business analytics** at the [HKU Business School](https://www.hkubs.hku.hk/). The group consists of 6 full-time faculty. The group's main research interests span the frontiers of modern statistical methodology and applications. The specific research directions include (but are not limited to) machine learning, artificial intelligence, high dimensional statistical inference, functional data, time series analysis, econometrics, factor models, and privacy protection. Our research is widely applied in areas such as health care, bioinformatics, service engineering, financial market, educational assessments, and psychological measurements.
 </div>
 
+<div style="text-align: justify">
 **Prospective Ph.D. applicants are welcome to get in touch with any faculty members for further information!**
+</div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->

@@ -8,7 +8,9 @@ permalink: /students_and_postdocs/
 
 ## Prospective PhD Students
 
-Our statistics (Business Analystics) group has multiple positions for PhD students, Research Assistants, and Postdocs. If you are interested in our Ph.D. program, please see [here](https://fbeo.fbe.hku.hk/phd/admissions/admission-application-and-tuition-fee/) for how to apply, application deadlines. The HKU Business School is organising a three-day face-to-face Recruitment Camp, please see [here](https://fbeo.fbe.hku.hk/phd/admissions/recruitment-camp). If you are interested, self-motivated, and have background in statistics, applied mathematics, or computer science, please send an email to (dyanghku@hku.hk) with your CV, transcripts, and a short description of your research interests. 
+<div style="text-align: justify">
+Our statistics (Business Analytics) group has multiple positions for PhD students, Research Assistants, and Postdocs. If you are interested, self-motivated, and have background in statistics, applied mathematics, or computer science, please send an email to our faculty members with your CV, transcripts, and a short description of your research interests. For our Ph.D. program, more details can be found [here](https://fbeo.fbe.hku.hk/phd/). For the three-day face-to-face Ph.D. Recruitment Camp in our faculty, more details can be found [here](https://fbeo.fbe.hku.hk/phd/admissions/recruitment-camp). 
+</div>
 
 ## Current PhD Students
 {% assign number_printed = 0 %}
