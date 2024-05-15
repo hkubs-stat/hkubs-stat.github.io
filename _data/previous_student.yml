@@ -1,13 +1,11 @@
 - name: Dr. Lutao Dai
+  info: Ph.D. Graduate, 2022
 
 - name: Dr. Suxi Zheng
+  info: Ph.D. Graduate, 2023
 
 - name: Dr. Jianlong Shao
-  photo: SHAO_Jianlong.jpg
-  number_educ: 0
-  education1: 
+  info: Ph.D. Graduate, 2024
 
 - name: Mr. Mingqiu Wei
-  photo: Mingqiu_Wei.jpg
-  number_educ: 0
-  education1: 
+  info: Mphil Graduate, 2024
