@@ -25,13 +25,13 @@ permalink: /seminars/
   width: 12%;
 }
 .table2 th:nth-of-type(2) {
-  width: 38%;
+  width: 41%;
 }
 .table2 th:nth-of-type(3) {
   width: 41%;
 }
 .table2 th:nth-of-type(4) {
-  width: 9%;
+  width: 6%;
 }
 .table1 th, .table1 td {
   vertical-align: middle;
@@ -64,7 +64,7 @@ permalink: /seminars/
 ## Summer Workshops
 
 {:class="table table-bordered table2"}
-| Dates   |  Workshop title     | Speakers                        |link                 |
+| Dates   |  Workshop title     | Speakers                        |Links                 |
 | ------- | ------------------ | ----------------------------------------- |-----------------------------------------------------------------------|
 | July 5, 2023  | HKU 2023 Summer Workshop on Statistics and Data Analytics  |Songxi Chen, Jiashun Jin, Prof. Regina Y. Liu, Annie Qu, Cunhui Zhang, Ji Zhu |[link](https://saasweb.hku.hk/workshop/sda2023/)   |
 | June 3, 2024  | HKU 2024 Summer Workshop on Statistics and Data Analytics | Yongtao Guan, Iain Johnstone, Runze Li, Yingying Li, Qiman Shao, Min-ge Xie, Qiwei Yao   | [link](https://hkubs-stat.github.io/HKU-2024-Summer-Workshop/)     |
