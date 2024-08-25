@@ -10,7 +10,7 @@ permalink: /seminars/
 
 ## Statistics Seminars in Acedemic Year 2023-2024
 
-{:class="table table-class1"}
+{:class="table table-bordered"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
 | Oct 11, 2023  | Shuting Shen    | Duke University                        | Combinatorial Inference on the Optimal Assortment in Multinomial Logit Models    |
