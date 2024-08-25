@@ -10,6 +10,20 @@ permalink: /seminars/
 
 ## Statistics Seminars 2023-2024
 
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 15%;
+}
+table th:nth-of-type(3) {
+    width: 30%;
+}
+table th:nth-of-type(4) {
+    width: 45%;
+}
+</style>
 
 {:class="table table-bordered"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title                                                         |    
@@ -24,7 +38,8 @@ permalink: /seminars/
 | Mar 12, 2024  | Pedro Oliveira  | Nova School of Business and Economics  | Unlocking Innovation in Healthcare: The Case of the Patient Innovation |
 | Mar 22, 2024  | Jian Huang      | The Hong Kong Polytechnic University   | A Bayesian Framework for Fine-Tuning Pretrained Diffusion Models       |
 | May 22, 2024  | Tengyuan Liang  | The University of Chicago | Randomization Inference When N = 1 |
-
+| May 30, 2024  | Runze Li        | Pennsylvania State University | A New Test for high dimensional two-sample mean problems with consideration of correlation structure |
+| June 19, 2024 | Yingying Fan    | University of Southern California | High-dimensional knockoffs inference for time series data |
 {:.table-striped}
 
 
@@ -35,9 +50,6 @@ permalink: /seminars/
 | ------- | ------------------ | ----------------------------------------- |-----------------------------------------------------------------------|
 | July 5, 2023  | HKU 2023 Summer Workshop on Statistics and Data Analytics  |Songxi Chen, Jiashun Jin, Prof. Regina Y. Liu, Annie Qu, Cunhui Zhang, Ji Zhu |[link](https://saasweb.hku.hk/workshop/sda2023/)   |
 | June 3, 2024  | HKU 2024 Summer Workshop on Statistics and Data Analytics | Yongtao Guan, Iain Johnstone, Runze Li, Yingying Li, Qiman Shao, Min-ge Xie, Qiwei Yao   | [link](https://hkubs-stat.github.io/HKU-2024-Summer-Workshop/)     |
-
-
-
 {:.table-striped}
 
 
