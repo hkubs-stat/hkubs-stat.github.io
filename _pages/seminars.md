@@ -10,9 +10,9 @@ permalink: /seminars/
 
 ## Statistics Seminars in Acedemic Year 2023-2024
 
-{:class="table table-bordered table-class1"}
+{:class="table table-class1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
-| :------------:  | :---------------: | -------------------------------------- |-----------------------------------------------------------------------|
+| ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
 | Oct 11, 2023  | Shuting Shen    | Duke University                        | Combinatorial Inference on the Optimal Assortment in Multinomial Logit Models    |
 | Oct 26, 2023  | Jianqing Fan    | Princeton University                   | Structural Deep Learning in Financial Asset Pricing                              |
 | Nov 7, 2023   | Zhenhua Lin     | National University of Singapore       | Statistical Inference for High-Dimensional and Functional Data via Bootstrapping |
