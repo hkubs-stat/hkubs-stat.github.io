@@ -8,20 +8,24 @@ permalink: /seminars/
 
 # Events
 
-## Statistics Seminars 2023-2024
+## Statistics Seminars in Acedemic Year 2023-2024
 
 <style>
 table th:first-of-type {
-    width: 10%;
+    width: 13%;
+    vertical-align: middle;
 }
 table th:nth-of-type(2) {
-    width: 15%;
+    width: 13%;
+    vertical-align: middle;
 }
 table th:nth-of-type(3) {
     width: 30%;
+    vertical-align: middle;
 }
 table th:nth-of-type(4) {
-    width: 45%;
+    width: 44%;
+    vertical-align: middle;
 }
 </style>
 
@@ -39,7 +43,7 @@ table th:nth-of-type(4) {
 | Mar 22, 2024  | Jian Huang      | The Hong Kong Polytechnic University   | A Bayesian Framework for Fine-Tuning Pretrained Diffusion Models       |
 | May 22, 2024  | Tengyuan Liang  | The University of Chicago | Randomization Inference When N = 1 |
 | May 30, 2024  | Runze Li        | Pennsylvania State University | A New Test for high dimensional two-sample mean problems with consideration of correlation structure |
-| June 19, 2024 | Yingying Fan    | University of Southern California | High-dimensional knockoffs inference for time series data |
+| Jun 19, 2024 | Yingying Fan    | University of Southern California | High-dimensional knockoffs inference for time series data |
 {:.table-striped}
 
 
