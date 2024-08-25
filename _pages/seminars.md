@@ -13,19 +13,15 @@ permalink: /seminars/
 <style>
 table th:first-of-type {
     width: 13%;
-    vertical-align: middle;
 }
 table th:nth-of-type(2) {
     width: 13%;
-    vertical-align: middle;
 }
 table th:nth-of-type(3) {
     width: 30%;
-    vertical-align: middle;
 }
 table th:nth-of-type(4) {
     width: 44%;
-    vertical-align: middle;
 }
 </style>
 
@@ -48,6 +44,24 @@ table th:nth-of-type(4) {
 
 
 ## Summer Workshops
+
+<style>
+table th:first-of-type {
+    width: 13%;
+    vertical-align:middle;
+}
+table th:nth-of-type(2) {
+    width: 30%;
+    vertical-align:middle;
+    text-align:center;
+}
+table th:nth-of-type(3) {
+    width: 44%;
+}
+table th:nth-of-type(4) {
+    width: 13%;
+}
+</style>
 
 {:class="table table-bordered"}
 | Dates   |  Workshop title     | Speakers                        |link                 |
