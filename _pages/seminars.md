@@ -10,21 +10,6 @@ permalink: /seminars/
 
 ## Statistics Seminars in Acedemic Year 2023-2024
 
-.table-class1 {
-table th:first-of-type {
-    width: 13%;
-}
-table th:nth-of-type(2) {
-    width: 13%;
-}
-table th:nth-of-type(3) {
-    width: 30%;
-}
-table th:nth-of-type(4) {
-    width: 44%;
-}
-}
-
 {:class="table table-bordered table-class1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | :------------:  | :---------------: | -------------------------------------- |-----------------------------------------------------------------------|
