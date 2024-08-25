@@ -10,35 +10,34 @@ permalink: /seminars/
 
 <style>
 .table1 th:first-of-type {
-  width: 13%;
+  width: 12%;
 }
-
 .table1 th:nth-of-type(2) {
   width: 13%;
 }
-
 .table1 th:nth-of-type(3) {
   width: 30%;
 }
-
 .table1 th:nth-of-type(4) {
-  width: 44%;
+  width: 45%;
 }
-
 .table2 th:first-of-type {
-  width: 13%;
+  width: 12%;
 }
-
 .table2 th:nth-of-type(2) {
-  width: 37%;
+  width: 38%;
 }
-
 .table2 th:nth-of-type(3) {
-  width: 35%;
+  width: 41%;
 }
-
 .table2 th:nth-of-type(4) {
-  width: 15%;
+  width: 9%;
+}
+.table1 th, .table1 td {
+  vertical-align: middle;
+}
+.table2 th, .table2 td {
+  vertical-align: middle;
 }
 </style>
 
