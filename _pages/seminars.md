@@ -25,7 +25,7 @@ table th:nth-of-type(4) {
 }
 }
 
-<table class="table table-bordered table-striped table-class1">
+{:class="table table-bordered table-class1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | :------------:  | :---------------: | -------------------------------------- |-----------------------------------------------------------------------|
 | Oct 11, 2023  | Shuting Shen    | Duke University                        | Combinatorial Inference on the Optimal Assortment in Multinomial Logit Models    |
@@ -40,7 +40,7 @@ table th:nth-of-type(4) {
 | May 22, 2024  | Tengyuan Liang  | The University of Chicago | Randomization Inference When N = 1 |
 | May 30, 2024  | Runze Li        | Pennsylvania State University | A New Test for high dimensional two-sample mean problems with consideration of correlation structure |
 | Jun 19, 2024 | Yingying Fan    | University of Southern California | High-dimensional knockoffs inference for time series data |
-</table>
+{:.table-striped}
 
 
 ## Summer Workshops
