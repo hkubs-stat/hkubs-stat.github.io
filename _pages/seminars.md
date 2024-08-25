@@ -25,10 +25,10 @@ permalink: /seminars/
   width: 12%;
 }
 .table2 th:nth-of-type(2) {
-  width: 41%;
+  width: 44%;
 }
 .table2 th:nth-of-type(3) {
-  width: 41%;
+  width: 38%;
 }
 .table2 th:nth-of-type(4) {
   width: 6%;
