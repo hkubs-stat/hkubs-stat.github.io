@@ -8,9 +8,43 @@ permalink: /seminars/
 
 # Events
 
+<style>
+.table1 th:first-of-type {
+  width: 13%;
+}
+
+.table1 th:nth-of-type(2) {
+  width: 13%;
+}
+
+.table1 th:nth-of-type(3) {
+  width: 30%;
+}
+
+.table1 th:nth-of-type(4) {
+  width: 44%;
+}
+
+.table2 th:first-of-type {
+  width: 13%;
+}
+
+.table2 th:nth-of-type(2) {
+  width: 37%;
+}
+
+.table2 th:nth-of-type(3) {
+  width: 35%;
+}
+
+.table2 th:nth-of-type(4) {
+  width: 15%;
+}
+</style>
+
 ## Statistics Seminars in Acedemic Year 2023-2024
 
-{:class="table table-bordered"}
+{:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
 | Oct 11, 2023  | Shuting Shen    | Duke University                        | Combinatorial Inference on the Optimal Assortment in Multinomial Logit Models    |
@@ -30,7 +64,7 @@ permalink: /seminars/
 
 ## Summer Workshops
 
-{:class="table table-bordered"}
+{:class="table table-bordered table2"}
 | Dates   |  Workshop title     | Speakers                        |link                 |
 | ------- | ------------------ | ----------------------------------------- |-----------------------------------------------------------------------|
 | July 5, 2023  | HKU 2023 Summer Workshop on Statistics and Data Analytics  |Songxi Chen, Jiashun Jin, Prof. Regina Y. Liu, Annie Qu, Cunhui Zhang, Ji Zhu |[link](https://saasweb.hku.hk/workshop/sda2023/)   |
