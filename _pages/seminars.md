@@ -13,22 +13,22 @@ permalink: /seminars/
   width: 12%;
 }
 .table1 th:nth-of-type(2) {
-  width: 13%;
+  width: 14%;
 }
 .table1 th:nth-of-type(3) {
   width: 30%;
 }
 .table1 th:nth-of-type(4) {
-  width: 45%;
+  width: 44%;
 }
 .table2 th:first-of-type {
   width: 12%;
 }
 .table2 th:nth-of-type(2) {
-  width: 43%;
+  width: 44%;
 }
 .table2 th:nth-of-type(3) {
-  width: 39%;
+  width: 38%;
 }
 .table2 th:nth-of-type(4) {
   width: 6%;
