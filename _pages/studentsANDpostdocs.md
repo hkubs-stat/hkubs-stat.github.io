@@ -41,7 +41,9 @@ Our statistics (Business Analytics) group has multiple positions for PhD student
 </div>
 {% endif %}
 
+{% if number_printed != 7 %}
 {% assign number_printed = number_printed | plus: 1 %}
+{% endif %}
 
 {% if even_odd == 1 %}
 </div>
