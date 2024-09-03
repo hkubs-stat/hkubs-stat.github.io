@@ -36,7 +36,6 @@ Our statistics (Business Analytics) group has multiple positions for PhD student
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden"> </ul>
   <ul> {{ member.email }} </ul>
 </div>
 {% endif %}
