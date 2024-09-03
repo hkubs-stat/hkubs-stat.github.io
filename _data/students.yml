@@ -1,3 +1,10 @@
+- name: Mr. Ziyan Cai  
+  photo: 
+  info: First Year Ph.D. Student
+  email: ziyancai@connect.hku.hk
+  number_educ: 0
+  education1: 
+
 - name: Mr. Yutao Deng
   photo: DENG-Yutao.jpg
   info: Second Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/deng-yutao/))
@@ -32,10 +39,45 @@
   email: lianh21@connect.hku.hk
   number_educ: 0
   education1: 
-  
+
+- name: Ms. Chen Wang
+  photo: 
+  info: First Year Ph.D. Student
+  email: tiachenw8@connect.hku.hk
+  number_educ: 0
+  education1: 
+
+- name: Mr. Ruotong Wang
+  photo: 
+  info: First Year Ph.D. Student
+  email: u3011774@connect.hku.hk
+  number_educ: 0
+  education1: 
+
+- name: Mr. Xinyu Wang
+  photo: 
+  info: First Year Ph.D. Student
+  email: xinyu24@connect.hku.hk
+  number_educ: 0
+  education1: 
+
 - name: Ms. Fangyi Wei
   photo: WEI-Fangyi.jpeg
   info: Second Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/wei-fangyi/))
   email: fwei@connect.hku.hk
+  number_educ: 0
+  education1: 
+
+- name: Ms. Wenjie Xiao
+  photo: Xiao_Wenjie.jpg
+  info: First Year Ph.D. Student
+  email: u3010804@connect.hku.hk
+  number_educ: 0
+  education1: 
+
+- name: Mr. Jingren Zhao
+  photo: 
+  info: First Year Ph.D. Student
+  email: u3011770@connect.hku.hk
   number_educ: 0
   education1: 
