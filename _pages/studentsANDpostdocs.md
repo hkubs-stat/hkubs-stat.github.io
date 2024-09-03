@@ -22,7 +22,7 @@ Our statistics (Business Analytics) group has multiple positions for PhD student
 <div class="row">
 {% endif %}
 
-{% if number_printed <= 7 %}
+{% if number_printed < 7 %}
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
@@ -32,11 +32,17 @@ Our statistics (Business Analytics) group has multiple positions for PhD student
 </div>
 {% endif %}
 
-{% if number_printed > 7 %}
+{% if number_printed >= 7 %}
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <br> {{ member.email }}</i>
+  <i>{{ member.info }} </i>
+  <h5> {{ member.email }} </h5>
 </div>
+{% endif %}
+
+{% if number_printed == 7 %}
+</div>
+<div class="row">
 {% endif %}
 
 {% assign number_printed = number_printed | plus: 1 %}
