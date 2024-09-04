@@ -55,7 +55,7 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
-| Sep 9, 2024 | [C. F. Jeff Wu](https://www.hkubs.hku.hk/event/a-hierarchical-expected-improvement-method-for-bayesian-optimization/)    | Georgia Institute of Technology | A hierarchical expected improvement method for Bayesian optimization |
+| Sep 9, 2024 | C. F. Jeff Wu    | Georgia Institute of Technology | [A hierarchical expected improvement method for Bayesian optimization](https://www.hkubs.hku.hk/event/a-hierarchical-expected-improvement-method-for-bayesian-optimization/) |
 {:.table-striped}
 
 
