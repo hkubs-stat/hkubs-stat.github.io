@@ -50,15 +50,6 @@ permalink: /seminars/
 | July 5, 2023  | HKU 2023 Summer Workshop on Statistics and Data Analytics  |Songxi Chen, Jiashun Jin, Regina Y. Liu, Annie Qu, Cunhui Zhang, Ji Zhu |[link](https://saasweb.hku.hk/workshop/sda2023/)   |
 {:.table-striped}
 
-## Statistics Seminars in Acedemic Year 2024-2025
-
-{:class="table table-bordered table1"}
-| Dates         | Speaker         | Speaker institution                    | Seminar Title  |
-| ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
-| Sep 9, 2024 | [C. F. Jeff Wu](https://www.hkubs.hku.hk/event/a-hierarchical-expected-improvement-method-for-bayesian-optimization/)    | Georgia Institute of Technology | A hierarchical expected improvement method for Bayesian optimization |
-{:.table-striped}
-
-
 ## Statistics Seminars in Acedemic Year 2023-2024
 
 {:class="table table-bordered table1"}
