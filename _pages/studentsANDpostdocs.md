@@ -87,7 +87,7 @@ Our statistics (Business Analytics) group has multiple positions for PhD student
 </div>
 {% endif %}
 
-## Previous students
+## Previous Students
 {% assign number_printed = 0 %}
 {% for member in site.data.previous_student %}
 
