@@ -55,10 +55,12 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| Jan 9, 2025 | Wenxin Zhou | University of Illinois Chicago | [Nonparametric Expected Shortfall Regression with Tail-Robustness](https://www.hkubs.hku.hk/event/nonparametric-expected-shortfall-regression-with-tail-robustness/) |
+| Dec 4, 2024 | Emma Jingfei Zhang | Emory University | [Preferential Latent Space Models for Networks with Textual Edges](https://www.hkubs.hku.hk/event/preferential-latent-space-models-for-networks-with-textual-edges/) |
+| Dec 3, 2024 | Elynn Chen | New York University | [Transfer Q-Learning](https://www.hkubs.hku.hk/event/transfer-q-learning/) |
 | Sep 23, 2024 | James Stephen Marron | University of North Carolina | [Data Integration Via Analysis of Subspaces (DIVAS)](https://www.hkubs.hku.hk/event/data-integration-via-analysis-of-subspaces-divas/) |
 | Sep 9, 2024 | C. F. Jeff Wu    | Georgia Institute of Technology | [A hierarchical expected improvement method for Bayesian optimization](https://www.hkubs.hku.hk/event/a-hierarchical-expected-improvement-method-for-bayesian-optimization/) |
 {:.table-striped}
-
 
 ## Statistics Seminars in Acedemic Year 2023-2024
 
@@ -78,6 +80,6 @@ permalink: /seminars/
 | Oct 26, 2023  | Jianqing Fan    | Princeton University                   | Structural Deep Learning in Financial Asset Pricing                              |
 {:.table-striped}
 
-
+Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on Jan 12th, 2025.
 
 

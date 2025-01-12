@@ -1,14 +1,14 @@
 - name: Prof. Zhanrui Cai
-  photo: zhanrui_cai.jpg
+  photo: Cai-Zhanrui.jpg
   info: Assistant Professor at IIM ([View Profile](https://www.hkubs.hku.hk/people/zhanrui-cai/))
   email: zhanruic@hku.hk
   number_educ: 1
-  education1: Ph.D. Pennsylvania State University
+  education1: Ph.D. The Pennsylvania State University
   interest: High dimensional inference, machine learning, and differential privacy.
 
   
 - name: Prof. Jing Ouyang
-  photo: Jing Ouyang.jpeg
+  photo: Ouyang-Jing.jpeg
   info: Assistant Professor at IIM ([View Profile](https://sites.google.com/umich.edu/jingouyang/home))
   email: jingoy@umich.edu 
   number_educ: 1
@@ -17,7 +17,7 @@
   
 
 - name: Prof. Xinghao Qiao
-  photo: Xing_Hao.jpg
+  photo: Qiao-Xinghao.jpg
   info: Associate Professor at IIM ([View Profile](https://www.hkubs.hku.hk/people/xinghao-qiao/))
   email: xinghaoq@hku.hk
   number_educ: 1
@@ -25,15 +25,23 @@
   interest: Functional data analysis, complex time series analysis, high-dimensional statistics/ econometrics, and machine learning in finance.
 
 - name: Prof. Haipeng Shen
-  photo: Haipeng_SHEN.jpg
+  photo: Shen-Haipeng.jpg
   info: Associate Dean (Executive Education), Patrick S C Poon Professor in Analytics and Innovation, Chair of Business Analytics and Innovation ([View Profile](https://www.hkubs.hku.hk/people/haipeng-shen/))
   email: haipeng@hku.hk
   number_educ: 1
   education1: Ph.D. University of Pennsylvania
   interest: Data-driven decision making in the face of uncertainty (big data, business analytics, healthcare analytics, service engineering).
 
+- name: Prof. Xin Tong
+  photo: Tong-Xin.jpg
+  info: Professor at IIM ([View Profile](https://sites.google.com/site/xintonghomepage/home?authuser=0))
+  email: haipeng@hku.hk
+  number_educ: 1
+  education1: Ph.D. Princeton University
+  interest: Asymmetric statistical learning, addressing challenges in the Neyman-Pearson classification paradigm, data distortion, sampling bias, asymmetric groups in classification and clustering, and partial knowledge in clustering and community detection.
+
 - name: Prof. Weichen Wang
-  photo: Weichen_Wang.jpg
+  photo: Wang-Weichen.jpg
   info: Assistant Professor at IIM ([View Profile](https://www.hkubs.hku.hk/people/weichen-wang/))
   email: weichenw@hku.hk
   number_educ: 1
@@ -41,7 +49,7 @@
   interest: Big data analysis, machine learning, econometrics and asset pricing, factor model and low-rank structure, semi-parametric and robust statistics.
   
 - name: Prof. Dan Yang
-  photo: Dan_YANG.jpg
+  photo: Yang-Dan.jpg
   info: Associate Professor at IIM, Associate Director for Institute of Digital Economy and Innovation (IDEI)  ([View Profile](https://sites.google.com/view/dyang/home?authuser=0))
   email: dyanghku@hku.hk
   number_educ: 1

@@ -22,7 +22,7 @@ Our statistics (Business Analytics) group has multiple positions for PhD student
 <div class="row">
 {% endif %}
 
-{% if number_printed < 7 %}
+{% if number_printed < 12 %}
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
@@ -31,7 +31,7 @@ Our statistics (Business Analytics) group has multiple positions for PhD student
 </div>
 {% endif %}
 
-{% if number_printed >= 7 %}
+{% if number_printed >= 12 %}
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i>
@@ -39,7 +39,7 @@ Our statistics (Business Analytics) group has multiple positions for PhD student
 </div>
 {% endif %}
 
-{% if number_printed == 7 %}
+{% if number_printed == 12 %}
 </div>
 <div class="row">
 {% endif %}
