@@ -82,6 +82,6 @@ permalink: /seminars/
 | Oct 26, 2023  | Jianqing Fan    | Princeton University                   | Structural Deep Learning in Financial Asset Pricing                              |
 {:.table-striped}
 
-Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on Feb 21nd, 2025.
+Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on Feb 21st, 2025.
 
 
