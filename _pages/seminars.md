@@ -55,6 +55,8 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| Feb 26, 2025 | Y. X. Rachel Wang | University of Sydney | [Individual-centered partial information in social networks: from local views to global structure](https://www.hkubs.hku.hk/event/individual-centered-partial-information-in-social-networks-from-local-views-to-global-structure/) |
+| Feb 18, 2025 | Degui Li | University of Macau | [Large-Scale Curve Time Series with Common Stochastic Trends](https://www.hkubs.hku.hk/event/large-scale-curve-time-series-with-common-stochastic-trends/) |
 | Jan 9, 2025 | Wenxin Zhou | University of Illinois Chicago | [Nonparametric Expected Shortfall Regression with Tail-Robustness](https://www.hkubs.hku.hk/event/nonparametric-expected-shortfall-regression-with-tail-robustness/) |
 | Dec 4, 2024 | Emma Jingfei Zhang | Emory University | [Preferential Latent Space Models for Networks with Textual Edges](https://www.hkubs.hku.hk/event/preferential-latent-space-models-for-networks-with-textual-edges/) |
 | Dec 3, 2024 | Elynn Chen | New York University | [Transfer Q-Learning](https://www.hkubs.hku.hk/event/transfer-q-learning/) |
@@ -80,6 +82,6 @@ permalink: /seminars/
 | Oct 26, 2023  | Jianqing Fan    | Princeton University                   | Structural Deep Learning in Financial Asset Pricing                              |
 {:.table-striped}
 
-Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on Jan 12th, 2025.
+Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on Feb 21nd, 2025.
 
 
