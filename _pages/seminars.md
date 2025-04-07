@@ -55,6 +55,8 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| Apr 9, 2025 | Lancelot James | The Hong Kong University of Science and Technology | Inception of Ideas: [A probabilistic view of Bayesian Nonparametrics – stickbreaking, Pitman-Yor Processes and the Poisson Calculus](https://www.hkubs.hku.hk/event/a-probabilistic-view-of-bayesian-nonparametrics-stickbreaking-pitman-yor-processes-and-the-poisson-calculus/) |
+| Apr 2, 2025 | Haipeng Shen | The University of Hong Kong | Inception of Ideas: [Rise from the call center](https://www.hkubs.hku.hk/event/rise-from-the-call-center/) |
 | Feb 26, 2025 | Y. X. Rachel Wang | University of Sydney | [Individual-centered partial information in social networks: from local views to global structure](https://www.hkubs.hku.hk/event/individual-centered-partial-information-in-social-networks-from-local-views-to-global-structure/) |
 | Feb 18, 2025 | Degui Li | University of Macau | [Large-Scale Curve Time Series with Common Stochastic Trends](https://www.hkubs.hku.hk/event/large-scale-curve-time-series-with-common-stochastic-trends/) |
 | Jan 9, 2025 | Wenxin Zhou | University of Illinois Chicago | [Nonparametric Expected Shortfall Regression with Tail-Robustness](https://www.hkubs.hku.hk/event/nonparametric-expected-shortfall-regression-with-tail-robustness/) |
@@ -82,6 +84,6 @@ permalink: /seminars/
 | Oct 26, 2023  | Jianqing Fan    | Princeton University                   | Structural Deep Learning in Financial Asset Pricing                              |
 {:.table-striped}
 
-Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on Feb 21st, 2025.
+Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on Apr 7, 2025.
 
 

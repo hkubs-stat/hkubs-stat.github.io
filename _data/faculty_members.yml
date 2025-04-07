@@ -34,11 +34,11 @@
 
 - name: Prof. Xin Tong
   photo: Tong-Xin.jpg
-  info: Professor at IIM ([View Profile](https://sites.google.com/site/xintonghomepage/home?authuser=0))
-  email: haipeng@hku.hk
+  info: Professor at IIM ([View Profile](https://www.hkubs.hku.hk/people/xin-tong/))
+  email: xint@hku.hk
   number_educ: 1
   education1: Ph.D. Princeton University
-  interest: Asymmetric statistical learning, addressing challenges in the Neyman-Pearson classification paradigm, data distortion, sampling bias, asymmetric groups in classification and clustering, and partial knowledge in clustering and community detection.
+  interest: Asymmetry in statistical learning, local information in networks, AI ethics, algorithmic market, societal impact of AI development.
 
 - name: Prof. Weichen Wang
   photo: Wang-Weichen.jpg
