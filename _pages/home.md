@@ -25,11 +25,19 @@ We are a research group focusing on **statistics and business analytics** at the
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-            <div class="item active">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Inception_20250402_01.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Inception_20250402_02.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Seminar_20240909.png" alt="Slide 1" />
         </div>
         <div class="item">
