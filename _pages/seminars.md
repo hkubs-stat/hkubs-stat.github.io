@@ -46,6 +46,7 @@ permalink: /seminars/
 {:class="table table-bordered table2"}
 | Dates   |  Workshop title     | Speakers                        |Links                 |
 | ------- | ------------------ | ----------------------------------------- |-----------------------------------------------------------------------|
+| June 10, 2025  | HKU 2025 Summer Workshop on Statistics and Data Analytics | Rong Chen, Xi Chen, Yingying Fan, Yongmiao Hong, Gareth James, Junhui Wang   | [link](https://hkubs-stat.github.io/HKUBA-2025-Summer-Workshop/)     |
 | June 3, 2024  | HKU 2024 Summer Workshop on Statistics and Data Analytics | Yongtao Guan, Iain Johnstone, Runze Li, Yingying Li, Qiman Shao, Min-ge Xie, Qiwei Yao   | [link](https://hkubs-stat.github.io/HKU-2024-Summer-Workshop/)     |
 | July 5, 2023  | HKU 2023 Summer Workshop on Statistics and Data Analytics  |Songxi Chen, Jiashun Jin, Regina Y. Liu, Annie Qu, Cunhui Zhang, Ji Zhu |[link](https://saasweb.hku.hk/workshop/sda2023/)   |
 {:.table-striped}
@@ -55,6 +56,7 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| Apr 30, 2025 | Qiwei Yao | The London School of Economics and Political Science | [Statistics in the age of AI: opportunities and challenges](https://www.hkubs.hku.hk/event/statistics-in-the-age-of-ai-opportunities-and-challenges/) |
 | Apr 9, 2025 | Lancelot James | The Hong Kong University of Science and Technology | Inception of Ideas: [A probabilistic view of Bayesian Nonparametrics – stickbreaking, Pitman-Yor Processes and the Poisson Calculus](https://www.hkubs.hku.hk/event/a-probabilistic-view-of-bayesian-nonparametrics-stickbreaking-pitman-yor-processes-and-the-poisson-calculus/) |
 | Apr 2, 2025 | Haipeng Shen | The University of Hong Kong | Inception of Ideas: [Rise from the call center](https://www.hkubs.hku.hk/event/rise-from-the-call-center/) |
 | Feb 26, 2025 | Y. X. Rachel Wang | University of Sydney | [Individual-centered partial information in social networks: from local views to global structure](https://www.hkubs.hku.hk/event/individual-centered-partial-information-in-social-networks-from-local-views-to-global-structure/) |
@@ -84,6 +86,6 @@ permalink: /seminars/
 | Oct 26, 2023  | Jianqing Fan    | Princeton University                   | Structural Deep Learning in Financial Asset Pricing                              |
 {:.table-striped}
 
-Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on Apr 7, 2025.
+Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on Apr 21, 2025.
 
 
