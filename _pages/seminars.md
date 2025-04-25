@@ -57,6 +57,7 @@ permalink: /seminars/
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
 | Apr 30, 2025 | Qiwei Yao | The London School of Economics and Political Science | [Statistics in the age of AI: opportunities and challenges](https://www.hkubs.hku.hk/event/statistics-in-the-age-of-ai-opportunities-and-challenges/) |
+| Apr 29, 2025 | Mladen Kolar | University of Southern California | [Statistics in the age of AI: opportunities and challenges](https://www.hkubs.hku.hk/event/confidence-sets-for-causal-orderings/) |
 | Apr 9, 2025 | Lancelot James | The Hong Kong University of Science and Technology | Inception of Ideas: [A probabilistic view of Bayesian Nonparametrics – stickbreaking, Pitman-Yor Processes and the Poisson Calculus](https://www.hkubs.hku.hk/event/a-probabilistic-view-of-bayesian-nonparametrics-stickbreaking-pitman-yor-processes-and-the-poisson-calculus/) |
 | Apr 2, 2025 | Haipeng Shen | The University of Hong Kong | Inception of Ideas: [Rise from the call center](https://www.hkubs.hku.hk/event/rise-from-the-call-center/) |
 | Feb 26, 2025 | Y. X. Rachel Wang | University of Sydney | [Individual-centered partial information in social networks: from local views to global structure](https://www.hkubs.hku.hk/event/individual-centered-partial-information-in-social-networks-from-local-views-to-global-structure/) |
