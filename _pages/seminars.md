@@ -56,6 +56,8 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| May 14, 2025 | Yuqi Gu | Columbia University | [Deep Discrete Encoders: Identifiable Deep Generative Models for Rich Data with Discrete Latent Layers](https://www.hkubs.hku.hk/event/deep-discrete-encoders-identifiable-deep-generative-models-for-rich-data-with-discrete-latent-layers/) |
+| May 8, 2025 | Qiwei Yao | The London School of Economics and Political Science | Inception of Ideas: [The Legend of Cointegration](https://www.hkubs.hku.hk/event/the-legend-of-cointegration/) |
 | Apr 30, 2025 | Qiwei Yao | The London School of Economics and Political Science | [Statistics in the age of AI: opportunities and challenges](https://www.hkubs.hku.hk/event/statistics-in-the-age-of-ai-opportunities-and-challenges/) |
 | Apr 29, 2025 | Mladen Kolar | University of Southern California | [Confidence Sets for Causal Orderings](https://www.hkubs.hku.hk/event/confidence-sets-for-causal-orderings/) |
 | Apr 9, 2025 | Lancelot James | The Hong Kong University of Science and Technology | Inception of Ideas: [A probabilistic view of Bayesian Nonparametrics – stickbreaking, Pitman-Yor Processes and the Poisson Calculus](https://www.hkubs.hku.hk/event/a-probabilistic-view-of-bayesian-nonparametrics-stickbreaking-pitman-yor-processes-and-the-poisson-calculus/) |
