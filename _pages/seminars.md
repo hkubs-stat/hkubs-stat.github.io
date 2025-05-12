@@ -56,6 +56,9 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| May 27, 2025 | Chenlei Leng | University of Warwick | [Mutual Links in Directed Networks: Statistical Models and Applications](https://www.hkubs.hku.hk/event/mutual-links-in-directed-networks-statistical-models-and-applications/) |
+| May 23, 2025 | Will Wei Sun | Purdue University | [My Journey on Trustworthy Reinforcement Learning: From Online Decision Making to Large Language Models](https://www.hkubs.hku.hk/event/my-journey-on-trustworthy-reinforcement-learning-from-online-decision-making-to-large-language-models/) |
+| May 23, 2025 | Yang Feng | New York University | [Adaptive and Robust Representation Multi-Task Learning](https://www.hkubs.hku.hk/event/adaptive-and-robust-representation-multi-task-learning/) |
 | May 14, 2025 | Yuqi Gu | Columbia University | [Deep Discrete Encoders: Identifiable Deep Generative Models for Rich Data with Discrete Latent Layers](https://www.hkubs.hku.hk/event/deep-discrete-encoders-identifiable-deep-generative-models-for-rich-data-with-discrete-latent-layers/) |
 | May 8, 2025 | Qiwei Yao | The London School of Economics and Political Science | Inception of Ideas: [The Legend of Cointegration](https://www.hkubs.hku.hk/event/the-legend-of-cointegration/) |
 | Apr 30, 2025 | Qiwei Yao | The London School of Economics and Political Science | [Statistics in the age of AI: opportunities and challenges](https://www.hkubs.hku.hk/event/statistics-in-the-age-of-ai-opportunities-and-challenges/) |
@@ -89,6 +92,6 @@ permalink: /seminars/
 | Oct 26, 2023  | Jianqing Fan    | Princeton University                   | Structural Deep Learning in Financial Asset Pricing                              |
 {:.table-striped}
 
-Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on Apr 25, 2025.
+Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on May 12, 2025.
 
 
