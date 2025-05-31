@@ -96,7 +96,7 @@ permalink: /seminars/
 Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on May 31, 2025. 
 
 Hit count from May 31, 2025:
-<div style="text-align:left; margin:20px 0">
+<div style="text-align:left; margin:1px 0">
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fhkubs-stat.github.io%2F&label=Stat%40HKUBS&icon=mortarboard&color=%230a58ca">
 </div>
 
