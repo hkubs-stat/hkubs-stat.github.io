@@ -56,6 +56,7 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| Jun 5, 2025 | Yingying Fan | University of Southern California | [High-Dimensional Network Causal Inference](https://www.hkubs.hku.hk/event/high-dimensional-network-causal-inference/) |
 | May 27, 2025 | Chenlei Leng | University of Warwick | [Mutual Links in Directed Networks: Statistical Models and Applications](https://www.hkubs.hku.hk/event/mutual-links-in-directed-networks-statistical-models-and-applications/) |
 | May 23, 2025 | Will Wei Sun | Purdue University | [My Journey on Trustworthy Reinforcement Learning: From Online Decision Making to Large Language Models](https://www.hkubs.hku.hk/event/my-journey-on-trustworthy-reinforcement-learning-from-online-decision-making-to-large-language-models/) |
 | May 23, 2025 | Yang Feng | New York University | [Adaptive and Robust Representation Multi-Task Learning](https://www.hkubs.hku.hk/event/adaptive-and-robust-representation-multi-task-learning/) |
@@ -92,6 +93,11 @@ permalink: /seminars/
 | Oct 26, 2023  | Jianqing Fan    | Princeton University                   | Structural Deep Learning in Financial Asset Pricing                              |
 {:.table-striped}
 
-Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on May 12, 2025.
+Current Web maintainer: Lian Huan (lianh21@connect.hku.hk). Last update on May 31, 2025. 
+
+Hit count from May 31, 2025:
+<div style="text-align:left; margin:20px 0">
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fhkubs-stat.github.io%2F&label=Stat%40HKUBS&icon=mortarboard&color=%230a58ca">
+</div>
 
 
