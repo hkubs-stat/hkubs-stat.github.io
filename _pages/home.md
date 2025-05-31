@@ -73,7 +73,9 @@ We are a research group focusing on **statistics and business analytics** at the
   </a>
 </div>
 
-
+<div style="text-align:center; margin:20px 0">
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fhkubs-stat.github.io%2F&label=Stat%40HKUBS&icon=mortarboard&color=%230a58ca">
+</div>
 
 
 
