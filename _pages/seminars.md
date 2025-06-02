@@ -57,6 +57,7 @@ permalink: /seminars/
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
 | Jun 5, 2025 | Yingying Fan | University of Southern California | [High-Dimensional Network Causal Inference](https://www.hkubs.hku.hk/event/high-dimensional-network-causal-inference/) |
+| Jun 5, 2025 | Linbo Wang | University of Toronto | [Fighting Noise with Noise: Causal Inference with Many Candidate Instruments](https://www.hkubs.hku.hk/event/fighting-noise-with-noise-causal-inference-with-many-candidate-instruments/) |
 | May 27, 2025 | Chenlei Leng | University of Warwick | [Mutual Links in Directed Networks: Statistical Models and Applications](https://www.hkubs.hku.hk/event/mutual-links-in-directed-networks-statistical-models-and-applications/) |
 | May 23, 2025 | Will Wei Sun | Purdue University | [My Journey on Trustworthy Reinforcement Learning: From Online Decision Making to Large Language Models](https://www.hkubs.hku.hk/event/my-journey-on-trustworthy-reinforcement-learning-from-online-decision-making-to-large-language-models/) |
 | May 23, 2025 | Yang Feng | New York University | [Adaptive and Robust Representation Multi-Task Learning](https://www.hkubs.hku.hk/event/adaptive-and-robust-representation-multi-task-learning/) |
