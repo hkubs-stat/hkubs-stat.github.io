@@ -36,12 +36,8 @@ This carousel chronicles the lifeblood of our research group - capturing how sem
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Inception_20250508.jpg" alt="Slide 1" />
-            <div class="external-caption" style="
-              position: absolute; top: 100%; left: 50%; 
-              transform: translateX(-50%); width: 90%; margin-top: 10px;
-              text-align: center; border-radius: 4px; padding: 8px 12px;
-            ">
-              Prof. Qiwei Yao from LSE, May 8th, 2025
+            <div class="caption-below">
+              <p>Prof. Qiwei Yao from LSE, May 8th, 2025</p>
             </div>
         </div>
         <div class="item">
@@ -51,7 +47,7 @@ This carousel chronicles the lifeblood of our research group - capturing how sem
               transform: translateX(-50%); width: 90%; margin-top: 10px;
               text-align: center; border-radius: 4px; padding: 8px 12px;
             ">              
-              Our fist Inception of Ideas seminar, Apr 2nd, 2025
+              <p>Our fist Inception of Ideas seminar, Apr 2nd, 2025</p>
             </div>
         </div>
         <div class="item">
