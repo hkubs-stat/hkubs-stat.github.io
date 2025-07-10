@@ -36,24 +36,20 @@ This carousel chronicles the lifeblood of our research group - capturing how sem
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Inception_20250508.jpg" alt="Slide 1" />
-            <div class="caption-below">
+            <div class="caption-below" stle="text-align: center;">
               <p>Prof. Qiwei Yao from LSE, May 8th, 2025</p>
             </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Inception_20250402_01.jpg" alt="Slide 1" />
-            <div class="external-caption" style="
-              position: absolute; top: 100%; left: 50%; 
-              transform: translateX(-50%); width: 90%; margin-top: 10px;
-              text-align: center; border-radius: 4px; padding: 8px 12px;
-            ">              
+            <div class="caption-below" stle="text-align: center;">            
               <p>Our fist Inception of Ideas seminar, Apr 2nd, 2025</p>
             </div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Inception_20250402_02.jpg" alt="Slide 2" />
-            <div class="carousel-caption" style="background: rgba(0,40,85,0.7); max-width:80%; left:10%; border-radius:8px;">
-              <h3 style="margin-bottom:5px; color:#ffd666;">Our fist Inception of Ideas seminar, Apr 2nd, 2025</h3>
+            <div class="caption-below" stle="text-align: center;">
+              <p>Our fist Inception of Ideas seminar, Apr 2nd, 2025</p>
             </div>
         </div>
         <div class="item">
