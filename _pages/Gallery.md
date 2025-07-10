@@ -6,7 +6,18 @@ sitemap: false
 permalink: /gallery/
 ---
 
-<div markdown="0" id="carousel" class="carousel slide" style="width: 60%; margin: 0 auto;" data-ride="carousel" data-interval="4000" data-pause="hover" >
+# Where Minds Meet: Our Academic Community Life
+
+This carousel chronicles the lifeblood of our research group - capturing how seminar insights, group discussions, and gatherings weave our intellectual fabric.
+
+Witness how ideas develop through:
+
+- Vistor Seminars
+- Group Meetings
+- Faculty Gatherings
+- PhD Gatherings
+
+<div markdown="0" id="carousel" class="carousel slide" style="width: 75%; margin: auto;" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
