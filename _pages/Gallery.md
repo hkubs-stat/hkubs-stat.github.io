@@ -36,8 +36,8 @@ This carousel chronicles the lifeblood of our research group - capturing how sem
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Inception_20250508.jpg" alt="Slide 1" />
-            <div class="carousel-caption" style="background: rgba(0,40,85,0.7); max-width:80%; left:10%; border-radius:8px;">
-              <h3 style="margin-bottom:5px; color:#ffd666;">Prof. Qiwei Yao from LSE, May 8th, 2025</h3>
+            <div class="carousel-caption" style="position: absolute; bottom: 0; max-width:80%; left: 0; padding: 10px 0; text-align: center;">
+              <h3 style="margin: 0; font-size: 1.2rem; padding: 0; line-height: 1.2;">Prof. Qiwei Yao from LSE, May 8th, 2025</h3>
             </div>
         </div>
         <div class="item">
