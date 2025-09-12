@@ -58,7 +58,7 @@ Our statistics (Business Analytics) group has multiple positions for PhD student
 {% endif %}
 
 
-## Current Postdocs
+## Current RAP and Postdocs
 {% assign number_printed = 0 %}
 {% for member in site.data.postdocs %}
 

@@ -51,6 +51,14 @@ permalink: /seminars/
 | July 5, 2023  | HKU 2023 Summer Workshop on Statistics and Data Analytics  |Songxi Chen, Jiashun Jin, Regina Y. Liu, Annie Qu, Cunhui Zhang, Ji Zhu |[link](https://saasweb.hku.hk/workshop/sda2023/)   |
 {:.table-striped}
 
+## Statistics Seminars in Acedemic Year 2025-2026
+
+{:class="table table-bordered table1"}
+| Dates         | Speaker         | Speaker institution                    | Seminar Title  |
+| ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| Dec 22, 2025 | Howell Tong | London School of Economics | Inceptions of Ideas |
+{:.table-striped}
+
 ## Statistics Seminars in Acedemic Year 2024-2025
 
 {:class="table table-bordered table1"}

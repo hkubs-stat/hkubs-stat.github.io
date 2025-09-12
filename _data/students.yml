@@ -1,83 +1,95 @@
 - name: Mr. Ziyan Cai  
   photo: Cai-Ziyan.jpeg
-  info: First Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/ziyan-cai/))
+  info: Second Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/ziyan-cai/))
   email: ziyancai@connect.hku.hk
   number_educ: 0
   education1: 
 
 - name: Mr. Yutao Deng
   photo: DENG-Yutao.jpg
-  info: Second Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/deng-yutao/))
+  info: Third Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/deng-yutao/))
   email: ytdeng@connect.hku.hk
   number_educ: 0
   education1: 
 
 - name: Ms. Rui Guo
   photo: Guo-Rui.jpg
-  info: Third Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/rui-guo/))
+  info: Fourth Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/rui-guo/))
   email: guorui77@connect.hku.hk
   number_educ: 0
   education1: 
 
 - name: Ms. Hanni Jie
   photo: JIE-Hanni.jpg
-  info: Second Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/jie-hanni/))
+  info: Third Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/jie-hanni/))
   email: jiehanni@connect.hku.hk
   number_educ: 0
   education1: 
 
 - name: Ms. Guoyu Kang
   photo: Kang-Guoyu.jpg
-  info: Third Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/guoyu-kang/))
+  info: Fourth Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/guoyu-kang/))
   email: kanggy@connect.hku.hk
   number_educ: 0
   education1: 
   
 - name: Mr. Huan Lian
   photo: LIAN-Huan.jpg
-  info: Second Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/lian-huan/))
+  info: Third Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/lian-huan/))
   email: lianh21@connect.hku.hk
   number_educ: 0
   education1: 
 
 - name: Ms. Chen Wang
   photo: Wang-Chen.jpeg
-  info: First Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/chen-wang-2/))
+  info: Second Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/chen-wang-2/))
   email: tiachenw8@connect.hku.hk
   number_educ: 0
   education1: 
 
 - name: Mr. Ruotong Wang
   photo: Wang-Ruotong.jpeg
-  info: First Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/ruotong-wang/))
+  info: Second Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/ruotong-wang/))
   email: u3011774@connect.hku.hk
   number_educ: 0
   education1: 
 
 - name: Mr. Xinyu Wang
   photo: Wang-Xinyu.jpeg
-  info: First Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/xinyu-wang/))
+  info: Second Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/xinyu-wang/))
   email: xinyu24@connect.hku.hk
   number_educ: 0
   education1: 
 
 - name: Ms. Fangyi Wei
   photo: WEI-Fangyi.jpeg
-  info: Second Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/wei-fangyi/))
+  info: Third Year Ph.D. Student([View Profile](https://www.hkubs.hku.hk/people/wei-fangyi/))
   email: fwei@connect.hku.hk
   number_educ: 0
   education1: 
 
 - name: Ms. Wenjie Xiao
   photo: Xiao-Wenjie.jpg
-  info: First Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/wenjie-xiao/))
+  info: Second Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/wenjie-xiao/))
   email: u3010804@connect.hku.hk
   number_educ: 0
   education1: 
 
 - name: Mr. Jingren Zhao
   photo: Zhao-Jingren.jpeg
-  info: First Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/jingren-zhao/))
+  info: Second Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/jingren-zhao/))
   email: u3011770@connect.hku.hk
+  number_educ: 0
+  education1: 
+
+- name: Mr. Qiannan Huang
+  info: First Year Ph.D. Student 
+  email: qnhuang@connect.hku.hk 
+  number_educ: 0
+  education1: 
+
+- name: Mr. Shiqi Lei
+  info: First Year Ph.D. Student
+  email: u3011793@connect.hku.hk 
   number_educ: 0
   education1: 
