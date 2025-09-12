@@ -39,10 +39,10 @@ Our statistics (Business Analytics) group has multiple positions for PhD student
 </div>
 {% endif %}
 
-{% if number_printed == 12 %}
-</div>
-<div class="row">
-{% endif %}
+<!--{% if number_printed == 12 %} -->
+<!--</div> -->
+<!--<div class="row"> -->
+<!--{% endif %} -->
 
 {% assign number_printed = number_printed | plus: 1 %}
 
