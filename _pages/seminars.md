@@ -56,7 +56,8 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
-| Dec 22, 2025 | Howell Tong | London School of Economics | Inceptions of Ideas |
+| Dec 22, 2025 | Howell Tong | The London School of Economics and Political Science | Inceptions of Ideas |
+| Nov 19, 2025 | Chengchun Shi | The London School of Economics and Political Science | [Statistics-powered AI](https://www.hkubs.hku.hk/event/statistics-powered-ai/) |
 {:.table-striped}
 
 ## Statistics Seminars in Acedemic Year 2024-2025
