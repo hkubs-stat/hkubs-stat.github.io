@@ -57,7 +57,7 @@ permalink: /seminars/
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
 | Dec 22, 2025 | Howell Tong | The London School of Economics and Political Science | Inceptions of Ideas |
-| Dec 12, 2025 | Viktor Todorov | Georgetown University | [A Test for Equity and Options Markets Integration](https://www.hkubs.hku.hk/event/a-test-for-equity-and-options-markets-integration/) |
+| Dec 12, 2025 | Viktor Todorov | Northwestern University | [A Test for Equity and Options Markets Integration](https://www.hkubs.hku.hk/event/a-test-for-equity-and-options-markets-integration/) |
 | Dec 11, 2025 | Dennis Shen | USC Marshall School of Business | [Synthetic Nearest Neighbours: Extending Synthetic Controls for Matrix Completion with Missing Not at Random Data](https://www.hkubs.hku.hk/event/synthetic-nearest-neighbours-extending-synthetic-controls-for-matrix-completion-with-missing-not-at-random-data/) |
 | Dec 10, 2025 | Hyukjun Kwon | Princeton University | [Uncertainty Quantification for Ranking with Heterogeneous Preferences](https://www.hkubs.hku.hk/event/uncertainty-quantification-for-ranking-with-heterogeneous-preferences/) |
 | Dec 2, 2025 | Junting Duan | Stanford University | [Imputation-Powered Inference for Missing Covariates](https://www.hkubs.hku.hk/event/imputation-powered-inference-for-missing-covariates/) |
