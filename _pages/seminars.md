@@ -56,6 +56,7 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| Feb 3, 2026 | Wei Zhong | Xiamen University | [A General Stability Approach to False Discovery Rate Control and Its Extensions](https://www.hkubs.hku.hk/event/a-general-stability-approach-to-false-discovery-rate-control-and-its-extensions/) | 
 | Dec 22, 2025 | Howell Tong | The London School of Economics and Political Science | Inception of Ideas: [How I developed the threshold principle in Statistics](https://www.hkubs.hku.hk/event/how-i-developed-the-threshold-principle-in-statistics/) |
 | Dec 22, 2025 | Brian Liu | MIT | [Extracting Interpretable Models from Tree Ensembles: Computational and Statistical Perspectives](https://www.hkubs.hku.hk/event/extracting-interpretable-models-from-tree-ensembles-computational-and-statistical-perspectives/) |
 | Dec 12, 2025 | Viktor Todorov | Northwestern University | [A Test for Equity and Options Markets Integration](https://www.hkubs.hku.hk/event/a-test-for-equity-and-options-markets-integration/) |
