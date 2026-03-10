@@ -56,6 +56,7 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| Mar 25, 2026 | Richard J. Samworth | University of Cambridge | [Learn the score](https://www.hkubs.hku.hk/event/learn-the-score/) |
 | Feb 9, 2026 | Xin Bing | University of Toronto | [Large language models meet topic models: theory, algorithm and applications](https://www.hkubs.hku.hk/event/large-language-models-meet-topic-models-theory-algorithm-and-applications/) | 
 | Dec 22, 2025 | Howell Tong | The London School of Economics and Political Science | Inception of Ideas: [How I developed the threshold principle in Statistics](https://www.hkubs.hku.hk/event/how-i-developed-the-threshold-principle-in-statistics/) |
 | Dec 22, 2025 | Brian Liu | MIT | [Extracting Interpretable Models from Tree Ensembles: Computational and Statistical Perspectives](https://www.hkubs.hku.hk/event/extracting-interpretable-models-from-tree-ensembles-computational-and-statistical-perspectives/) |
