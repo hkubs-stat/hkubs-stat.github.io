@@ -46,6 +46,7 @@ permalink: /seminars/
 {:class="table table-bordered table2"}
 | Dates   |  Workshop title     | Speakers                        |Links                 |
 | ------- | ------------------ | ----------------------------------------- |-----------------------------------------------------------------------|
+| June 17-18, 2026  | HKU 2026 Summer Workshop on Statistics and Data Analytics | Genevera Allen, Tony Cai, Jiguo Cao, Aurore Delaigle, Jian Huang, Linglong Kong, Jun Liu, Zhiliang Ying, Hongtu Zhu  | [link](https://hkubs-stat.github.io/HKUBA-2026-Summer-Workshop/)  |
 | June 10, 2025  | HKU 2025 Summer Workshop on Statistics and Data Analytics | Tony Cai, Rong Chen, Xi Chen, Yingying Fan, Yongmiao Hong, Gareth James, Junhui Wang   | [link](https://hkubs-stat.github.io/HKUBA-2025-Summer-Workshop/)     |
 | June 3, 2024  | HKU 2024 Summer Workshop on Statistics and Data Analytics | Yongtao Guan, Iain Johnstone, Runze Li, Yingying Li, Qiman Shao, Min-ge Xie, Qiwei Yao   | [link](https://hkubs-stat.github.io/HKU-2024-Summer-Workshop/)     |
 | July 5, 2023  | HKU 2023 Summer Workshop on Statistics and Data Analytics  |Songxi Chen, Jiashun Jin, Regina Y. Liu, Annie Qu, Cunhui Zhang, Ji Zhu |[link](https://saasweb.hku.hk/workshop/sda2023/)   |
