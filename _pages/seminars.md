@@ -57,6 +57,7 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| Jun 9, 2026 | Hongtu Zhu | University of North Carolina at Chapel Hill | [Statistical Challenges and Opportunities in Two-sided Markets With Application in Tech Business](https://www.hkubs.hku.hk/event/statistical-challenges-and-opportunities-in-two-sided-markets-with-application-in-tech-business/) |
 | Apr 27, 2026 | Zhentao Shi | The Chinese University of Hong Kong | [Benign Overfitting in Economic Forecasting via Noise Regularization](https://www.hkubs.hku.hk/event/benign-overfitting-in-economic-forecasting-via-noise-regularization/) | 
 | Mar 25, 2026 | Richard J. Samworth | University of Cambridge | [Learn the score](https://www.hkubs.hku.hk/event/learn-the-score/) |
 | Feb 9, 2026 | Xin Bing | University of Toronto | [Large language models meet topic models: theory, algorithm and applications](https://www.hkubs.hku.hk/event/large-language-models-meet-topic-models-theory-algorithm-and-applications/) | 
