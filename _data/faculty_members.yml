@@ -22,7 +22,7 @@
   email: xinghaoq@hku.hk
   number_educ: 1
   education1: Ph.D. University of Southern California
-  interest: Functional data analysis, complex time series analysis, high-dimensional statistics/ econometrics, and machine learning in finance.
+  interest: Causal inference and experimental design, complex time series analysis, high-dimensional statistics/econometrics, statistical foundations of LLMs, functional data analysis
 
 - name: Prof. Haipeng Shen
   photo: Shen-Haipeng.jpg
@@ -56,5 +56,9 @@
   education1: Ph.D. University of Pennsylvania
   interest: Business analytics in finance and healthcare, high-dimensional statistical inference, tensor data, time series analysis, dimension reduction, functional data analysis and multivariate data analysis, analysis of observational studies and causal inference.
   
-
+- name: Prof. Junting Duan
+  photo: Duan-Junting.jpg
+  info: Assistant Professor at IIM ([View Profile](https://www.linkedin.com/in/junting-duan-41b46b254/))
+  number_educ: 1
+  education1: Ph.D. Stanford University
 
