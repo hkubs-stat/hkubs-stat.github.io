@@ -57,6 +57,8 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| July 3, 2026 | Yuhao Wang | Tsinghua University | [A multivariate extension of Azadkia-Chatterjee’s rank coefficient](https://www.hkubs.hku.hk/event/a-multivariate-extension-of-azadkia-chatterjees-rank-coefficient/) |
+| Jun 30, 2026 | Xi Chen | New York University | [Preference Optimization Beyond DPO: From Noisy Feedback to Conflicting Objectives](https://www.hkubs.hku.hk/event/preference-optimization-beyond-dpo-from-noisy-feedback-to-conflicting-objectives/) |
 | Jun 9, 2026 | Hongtu Zhu | University of North Carolina at Chapel Hill | [Statistical Challenges and Opportunities in Two-sided Markets With Application in Tech Business](https://www.hkubs.hku.hk/event/statistical-challenges-and-opportunities-in-two-sided-markets-with-application-in-tech-business/) |
 | Apr 27, 2026 | Zhentao Shi | The Chinese University of Hong Kong | [Benign Overfitting in Economic Forecasting via Noise Regularization](https://www.hkubs.hku.hk/event/benign-overfitting-in-economic-forecasting-via-noise-regularization/) | 
 | Mar 25, 2026 | Richard J. Samworth | University of Cambridge | [Learn the score](https://www.hkubs.hku.hk/event/learn-the-score/) |
