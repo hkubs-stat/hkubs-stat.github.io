@@ -52,6 +52,14 @@ permalink: /seminars/
 | July 5, 2023  | HKU 2023 Summer Workshop on Statistics and Data Analytics  |Songxi Chen, Jiashun Jin, Regina Y. Liu, Annie Qu, Cunhui Zhang, Ji Zhu |[link](https://saasweb.hku.hk/workshop/sda2023/)   |
 {:.table-striped}
 
+## Statistics Seminars in Acedemic Year 2026-2027
+
+{:class="table table-bordered table1"}
+| Dates         | Speaker         | Speaker institution                    | Seminar Title  |
+| ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| Sep 11, 2026 | Hao Chen | University of California, Davis | [Making Use of the Curse of Dimensionality: From Statistical Inference to Generative Evaluation](https://www.hkubs.hku.hk/event/making-use-of-the-curse-of-dimensionality-from-statistical-inference-to-generative-evaluation/) |
+{:.table-striped}
+
 ## Statistics Seminars in Acedemic Year 2025-2026
 
 {:class="table table-bordered table1"}
