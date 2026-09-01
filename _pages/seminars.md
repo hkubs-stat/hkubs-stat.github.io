@@ -57,6 +57,7 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| Sep 18, 2026 | Binyan Jiang | The Hong Kong Polytechnic University | [Hypergragh Embeddings](https://www.hkubs.hku.hk/event/hypergragh-embeddings/) |
 | Sep 11, 2026 | Hao Chen | University of California, Davis | [Making Use of the Curse of Dimensionality: From Statistical Inference to Generative Evaluation](https://www.hkubs.hku.hk/event/making-use-of-the-curse-of-dimensionality-from-statistical-inference-to-generative-evaluation/) |
 {:.table-striped}
 
