@@ -19,6 +19,13 @@
   number_educ: 0
   education1: 
 
+- name: Ms. Qiannan Huang
+  photo: Huang-Qiannan.jpeg
+  info: First Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/qiannan-huang/))
+  email: qnhuang@connect.hku.hk 
+  number_educ: 0
+  education1: 
+
 - name: Ms. Hanni Jie
   photo: JIE-Hanni.jpg
   info: Third Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/jie-hanni/))
@@ -30,6 +37,13 @@
   photo: Kang-Guoyu.jpg
   info: Fourth Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/guoyu-kang/))
   email: kanggy@connect.hku.hk
+  number_educ: 0
+  education1: 
+
+- name: Mr. Shiqi Lei
+  photo: Lei-Shiqi.jpeg
+  info: First Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/shiqi-lei/))
+  email: u3011793@connect.hku.hk 
   number_educ: 0
   education1: 
   
@@ -82,16 +96,3 @@
   number_educ: 0
   education1: 
 
-- name: Ms. Qiannan Huang
-  photo: Huang-Qiannan.jpeg
-  info: First Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/qiannan-huang/))
-  email: qnhuang@connect.hku.hk 
-  number_educ: 0
-  education1: 
-
-- name: Mr. Shiqi Lei
-  photo: Lei-Shiqi.jpeg
-  info: First Year Ph.D. Student ([View Profile](https://www.hkubs.hku.hk/people/shiqi-lei/))
-  email: u3011793@connect.hku.hk 
-  number_educ: 0
-  education1: 

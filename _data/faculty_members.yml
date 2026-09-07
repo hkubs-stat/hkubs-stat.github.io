@@ -6,6 +6,12 @@
   education1: Ph.D. The Pennsylvania State University
   interest: High dimensional inference, machine learning, and differential privacy.
 
+- name: Prof. Junting Duan
+  photo: Duan-Junting.jpeg
+  info: Assistant Professor at IIM ([View Profile](https://www.linkedin.com/in/junting-duan-41b46b254/))
+  number_educ: 1
+  education1: Ph.D. Stanford University
+  interest: Causal inference
   
 - name: Prof. Jing Ouyang
   photo: Ouyang-Jing.jpeg
@@ -14,7 +20,6 @@
   number_educ: 1
   education1: Ph.D. University of Michigan
   interest: Latent variable models, psychometrics, high-dimensional statistical inference, and statistical machine learning.
-  
 
 - name: Prof. Xinghao Qiao
   photo: Qiao-Xinghao.jpg
@@ -47,11 +52,4 @@
   number_educ: 1
   education1: Ph.D. Princeton University
   interest: Big data analysis, machine learning, econometrics and asset pricing, factor model and low-rank structure, semi-parametric and robust statistics.
-  
-- name: Prof. Junting Duan
-  photo: Duan-Junting.jpeg
-  info: Assistant Professor at IIM ([View Profile](https://www.linkedin.com/in/junting-duan-41b46b254/))
-  number_educ: 1
-  education1: Ph.D. Stanford University
-  interest: Causal inference
 
