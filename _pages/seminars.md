@@ -59,6 +59,7 @@ permalink: /seminars/
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
 | Nov 6, 2026 | Nancy Reid | University of Toronto | [All models are wrong](https://www.hkubs.hku.hk/event/all-models-are-wrong/) |
 | Oct 30, 2026 | Nancy Reid | University of Toronto | Inception of Ideas: [Parameter Orthogonality and Approximate Conditional Inference](https://www.hkubs.hku.hk/event/parameter-orthogonality-and-approximate-conditional-inference/) |
+| Oct 23, 2026 | Shuyi Zhang | East China Normal University | [Cautionary tales in air-quality assessment](https://www.hkubs.hku.hk/event/cautionary-tales-in-air-quality-assessment/) |
 | Oct 9, 2026 | Dong Xia | The Hong Kong University of Science and Technology | [Learning and Inference from Tensors](https://www.hkubs.hku.hk/event/learning-and-inference-from-tensors/) |
 | Sep 18, 2026 | Binyan Jiang | The Hong Kong Polytechnic University | [Hypergragh Embeddings](https://www.hkubs.hku.hk/event/hypergragh-embeddings/) |
 | Sep 11, 2026 | Hao Chen | University of California, Davis | [Making Use of the Curse of Dimensionality: From Statistical Inference to Generative Evaluation](https://www.hkubs.hku.hk/event/making-use-of-the-curse-of-dimensionality-from-statistical-inference-to-generative-evaluation/) |
