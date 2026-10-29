@@ -57,6 +57,9 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| Nov 20, 2026 | Haoran Zhang | Southern University of Science and Technology | [Unfolding and Fusion: Debiased Inference for Generalized Multilayer Latent Space Models](https://www.hkubs.hku.hk/event/unfolding-and-fusion-debiased-inference-for-generalized-multilayer-latent-space-models/) |
+| Nov 16, 2026 | Ruixuan Liu | The Chinese University of Hong Kong | [Robust Semiparametric Inference for Bayesian Additive Regression Trees](https://www.hkubs.hku.hk/event/robust-semiparametric-inference-for-bayesian-additive-regression-trees/) |
+| Nov 13, 2026 | Yingying Li | The Hong Kong University of Science and Technology | Inception of Ideas: [Approaching the Frontier in Large Risky-Asset Universes: Direct Portfolio Estimation via CORE](https://www.hkubs.hku.hk/event/approaching-the-frontier-in-large-risky-asset-universes-direct-portfolio-estimation-via-core/) |
 | Nov 6, 2026 | Nancy Reid | University of Toronto | [All models are wrong](https://www.hkubs.hku.hk/event/all-models-are-wrong/) |
 | Oct 30, 2026 | Nancy Reid | University of Toronto | Inception of Ideas: [Parameter Orthogonality and Approximate Conditional Inference](https://www.hkubs.hku.hk/event/parameter-orthogonality-and-approximate-conditional-inference/) |
 | Oct 23, 2026 | Shuyi Zhang | East China Normal University | [Cautionary tales in air-quality assessment](https://www.hkubs.hku.hk/event/cautionary-tales-in-air-quality-assessment/) |
