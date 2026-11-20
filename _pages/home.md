@@ -12,16 +12,18 @@ We are a research group focusing on **statistics and business analytics** at the
 </div>
 
 
-<div style="text-align: justify">
+
+<div style="text-align: justify; color: #C8102E;">
   <strong>
-    We warmly encourage prospective Ph.D. students to apply to our program!
-    The application deadline for the 2027/28 intake is December 1, 2026.
-    Please submit your application through the
-    <a href="https://rola.hku.hk/">official HKU online application system</a>.
-    Prospective applicants are also welcome to contact our faculty members
-    for further information.
+    Prospective Ph.D. students are warmly encouraged to
+    <a href="https://rola.hku.hk/" style="color: #C8102E; text-decoration: underline;">apply online</a>
+    by December 1, 2026! Please select
+    Innovation and Information Management (IIM) –
+    Business Analytics (BA) as your field of study.
+    Feel free to contact our faculty members for further information.
   </strong>
 </div>
+
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
