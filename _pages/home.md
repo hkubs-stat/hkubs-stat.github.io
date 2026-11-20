@@ -11,9 +11,18 @@ permalink: /
 We are a research group focusing on **statistics and business analytics** at the [HKU Business School](https://www.hkubs.hku.hk/). The group consists of 7 full-time faculty. The group's main research interests span the frontiers of modern statistical methodology and applications. The specific research directions include (but are not limited to) machine learning, artificial intelligence, high dimensional statistical inference, functional data, time series analysis, econometrics, factor models, and privacy protection. Our research is widely applied in areas such as health care, bioinformatics, service engineering, financial market, educational assessments, and psychological measurements.
 </div>
 
+
 <div style="text-align: justify">
-**Prospective Ph.D. applicants are welcome to get in touch with any faculty members for further information!**
+  <strong>
+    We warmly encourage prospective Ph.D. students to apply to our program!
+    The application deadline for the 2027/28 intake is December 1, 2026.
+    Please submit your application through the
+    <a href="https://rola.hku.hk/">official HKU online application system</a>.
+    Prospective applicants are also welcome to contact our faculty members
+    for further information.
+  </strong>
 </div>
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
