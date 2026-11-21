@@ -3,14 +3,12 @@
   info: Assistant Professor at IIM ([View Profile](https://www.hkubs.hku.hk/people/zhanrui-cai/))
   email: zhanruic@hku.hk
   number_educ: 1
-  education1: Ph.D. The Pennsylvania State University
   interest: Machine learning, Large language models, and privacy protection.
 
 - name: Prof. Junting Duan
   photo: Duan-Junting.jpeg
   info: Assistant Professor at IIM ([View Profile](https://www.hkubs.hku.hk/people/duan-junting/))
   number_educ: 1
-  education1: Ph.D. Stanford University
   interest: Causal inference
   
 - name: Prof. Jing Ouyang
@@ -18,7 +16,6 @@
   info: Assistant Professor at IIM ([View Profile](https://www.hkubs.hku.hk/people/jing-ouyang/))
   email: jingoy@umich.edu 
   number_educ: 1
-  education1: Ph.D. University of Michigan
   interest: Latent variable models, psychometrics, high-dimensional statistical inference, and statistical machine learning.
 
 - name: Prof. Xinghao Qiao
@@ -26,7 +23,6 @@
   info: Associate Professor at IIM ([View Profile](https://www.hkubs.hku.hk/people/xinghao-qiao/))
   email: xinghaoq@hku.hk
   number_educ: 1
-  education1: Ph.D. University of Southern California
   interest: Causal inference and experimental design, complex time series analysis, high-dimensional statistics/econometrics, statistical foundations of LLMs, functional data analysis
 
 - name: Prof. Haipeng Shen
@@ -34,7 +30,6 @@
   info: Associate Vice-President (Teaching and Learning - TPG), Associate Dean (EMBA and IMBA), Patrick S C Poon Professor in Analytics and Innovation, Chair of Business Analytics and Innovation ([View Profile](https://www.hkubs.hku.hk/people/haipeng-shen/))
   email: haipeng@hku.hk
   number_educ: 1
-  education1: Ph.D. University of Pennsylvania
   interest: Data-driven decision making in the face of uncertainty (big data, business analytics, healthcare analytics, service engineering).
 
 - name: Prof. Xin Tong
@@ -42,7 +37,6 @@
   info: Professor at IIM ([View Profile](https://www.hkubs.hku.hk/people/xin-tong/))
   email: xint@hku.hk
   number_educ: 1
-  education1: Ph.D. Princeton University
   interest: Asymmetry in statistical learning, local information in networks, AI ethics, algorithmic market, societal impact of AI development.
 
 - name: Prof. Weichen Wang
@@ -50,6 +44,5 @@
   info: Assistant Professor at IIM ([View Profile](https://www.hkubs.hku.hk/people/weichen-wang/))
   email: weichenw@hku.hk
   number_educ: 1
-  education1: Ph.D. Princeton University
   interest: Big data analysis, machine learning, econometrics and asset pricing, factor model and low-rank structure, semi-parametric and robust statistics.
 
