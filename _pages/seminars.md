@@ -57,6 +57,7 @@ permalink: /seminars/
 {:class="table table-bordered table1"}
 | Dates         | Speaker         | Speaker institution                    | Seminar Title  |
 | ------------  | --------------- | -------------------------------------- |-----------------------------------------------------------------------|
+| Nov 30, 2026 | Peter Reinhard Hansen | University of North Carolina at Chapel Hill | [Box-Cox Transformations of Correlation Matrices](https://www.hkubs.hku.hk/event/box-cox-transformations-of-correlation-matrices/) |
 | Nov 27, 2026 | Zudi Lu | City University of Hong Kong | [Statistical Random Forests Modelling for Nonlinear Time Series](https://www.hkubs.hku.hk/event/statistical-random-forests-modelling-for-nonlinear-time-series/) |
 | Nov 23, 2026 | Johannes Lederer | University of Hamburg | [Rare Events, Massive Data, One Score](https://www.hkubs.hku.hk/event/rare-events-massive-data-one-score/) |
 | Nov 20, 2026 | Haoran Zhang | Southern University of Science and Technology | [Unfolding and Fusion: Debiased Inference for Generalized Multilayer Latent Space Models](https://www.hkubs.hku.hk/event/unfolding-and-fusion-debiased-inference-for-generalized-multilayer-latent-space-models/) |
